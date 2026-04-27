@@ -12,4 +12,5 @@ class Complejo {
 
 fun main() {
     println(Complejo().ponerValor(Random.nextInt(1, 10), Random.nextInt(1, 10)))
+    println ("hola mundo")
 }
